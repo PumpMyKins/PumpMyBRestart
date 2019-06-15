@@ -1,0 +1,7 @@
+name: PumpMyBRestart
+main: fr.pumpmybrestart.Main
+version: 1.0.0
+author: Clem_Fern
+commands:
+  bshutdown:
+    description: PumpMyBRestart command
