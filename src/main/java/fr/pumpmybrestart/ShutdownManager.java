@@ -23,7 +23,7 @@ public class ShutdownManager {
 		
 	}
 	
-	private static final int[] time = {60,30,20,10,5,4,3,2,1};
+	private static final int[] time = {600,300,120,60,30,20,10,5,4,3,2,1};
 	private static final int max_time = time[0];
 	
 	private void addScheduler(ScheduledTask st,int delay) {
