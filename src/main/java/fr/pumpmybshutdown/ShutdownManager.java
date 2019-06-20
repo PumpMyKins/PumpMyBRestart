@@ -1,4 +1,4 @@
-package fr.pumpmybrestart;
+package fr.pumpmybshutdown;
 
 import java.util.ArrayList;
 import java.util.List;

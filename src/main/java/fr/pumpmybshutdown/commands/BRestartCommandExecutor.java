@@ -1,10 +1,10 @@
-package fr.pumpmybrestart.commands;
+package fr.pumpmybshutdown.commands;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import fr.pumpmybrestart.Main;
+import fr.pumpmybshutdown.Main;
 import net.md_5.bungee.api.CommandSender;
 import net.md_5.bungee.api.chat.TextComponent;
 import net.md_5.bungee.api.plugin.Command;

@@ -1,13 +1,13 @@
-package fr.pumpmybrestart;
+package fr.pumpmybshutdown;
 
 import java.time.LocalDateTime;
 import java.util.concurrent.TimeUnit;
 
-import fr.pumpmybrestart.commands.BRestartCommandExecutor;
-import fr.pumpmybrestart.commands.CancelSubCommand;
-import fr.pumpmybrestart.commands.HelpMotdSubCommand;
-import fr.pumpmybrestart.commands.SkipSubCommand;
-import fr.pumpmybrestart.commands.StopSubCommand;
+import fr.pumpmybshutdown.commands.BRestartCommandExecutor;
+import fr.pumpmybshutdown.commands.CancelSubCommand;
+import fr.pumpmybshutdown.commands.HelpMotdSubCommand;
+import fr.pumpmybshutdown.commands.SkipSubCommand;
+import fr.pumpmybshutdown.commands.StopSubCommand;
 import net.md_5.bungee.api.plugin.Plugin;
 
 public class Main extends Plugin{

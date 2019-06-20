@@ -1,4 +1,4 @@
-package fr.pumpmybrestart.commands;
+package fr.pumpmybshutdown.commands;
 
 import java.util.List;
 
